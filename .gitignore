@@ -1,0 +1,11 @@
+deps
+*.swp
+*.swo
+.eunit/
+**/*.beam
+.rebar
+out
+.idea
+*.iml
+
+ebin

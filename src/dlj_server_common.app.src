@@ -1,0 +1,8 @@
+{application, dlj_server_common, [
+    {description, "dlj common module"},
+    {vsn, "1.0.0"},
+    {registered, []},
+	{applications, [kernel, stdlib]},
+	{modules, [dlj_server_common]},
+	{env, []}
+]}.
